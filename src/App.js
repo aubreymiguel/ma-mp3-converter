@@ -39,7 +39,7 @@ function App() {
 
     <div className="main">
       <span className="navbar--title">
-        <img src={myLogo} className="navbar--logo" />
+        <img src={myLogo} alt="logo" className="navbar--logo" />
       </span>
       <section className="content">
         <h1 className="content--title">
